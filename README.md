@@ -16,6 +16,3 @@ Lets you chat with your staff over bungeecord.
 * [ ] Add ```/etc``` command
 * [ ] Add color and prefix to messages
 * [ ] Add login/logout feature
-
----
-> *"Ein Computer wird das tun, was du programmierst - nicht das, was du willst."* **- Unbekannter Autor**
